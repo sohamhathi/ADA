@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool isValid(string s) {
+     char c;
+         Printf( "enter the parenthsis character ");
+         scanf("%s",&c);
+         top==-1;
+         if( c="("|| c ="{"|| c ="[")
+          push(top);
+          if (c=")"||c="}"||c ="]")
+          pop( top);
+
+          cout<<top
+
+          
+                
+    }
+};
